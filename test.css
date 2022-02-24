@@ -1,0 +1,17 @@
+p {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.warning {
+    color: red;
+}
+
+.info {
+    color: blue;
+}
+#heading {
+    /* __________________ */
+    background-image: url(images/donkey.jpg);
+    
+}
